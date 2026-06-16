@@ -8,7 +8,6 @@ st.title("ML Prediction App")
 
 st.write("Enter values:")
 
-# CHANGE THESE INPUTS BASED ON YOUR DATASET
 x1 = st.number_input("Feature 1")
 x2 = st.number_input("Feature 2")
 x3 = st.number_input("Feature 3")
